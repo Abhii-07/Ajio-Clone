@@ -31,9 +31,6 @@ Blog link => https://medium.com/@abhijeethiwale0077/ajio-website-clone-5d5e8c199
 
 Clone link => https://rad-wisp-02436f.netlify.app
 
-## Presentation 
-
-Link=> https://drive.google.com/file/d/11i_9lElRtnxBf_d19u7GQVKdVP70Nmmb/view?usp=sharing
 
 ## Roles & Responsibilities :-
 
@@ -68,11 +65,11 @@ We all learned how to plan a project and execute that.
 
 ## Team-Member
 
+- [Abhijeet Hiwale](https://github.com/Abhii-07)
 - [Shreyansh Gupta](https://github.com/Shreyansh12Gupta)
 - [Ayush Kumar](https://github.com/ayush7271)
 - [Shreyash Ahuja](https://github.com/loki0925)
 - [Abhishek Kansana](https://github.com/AbhiKansana)
-- [Abhijeet Hiwale](https://github.com/Abhii-07)
 - [Noorbasha](https://github.com/snoorbasha50)
 
   ## Screenshots
