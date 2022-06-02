@@ -22,9 +22,6 @@ Tech Stack : The tech Stack we used for creating this website are :-
 - Add to cart Button.
 - Multiple Images view on Hovering over images on Products page & Quick view Page.
 
-##Clone the repository
-
-Github Clone - https://github.com/Shreyansh12Gupta/AJIO_CLONE
 
 ## Blog
 
