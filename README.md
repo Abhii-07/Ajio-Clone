@@ -32,7 +32,7 @@ Blog link => https://medium.com/@abhijeethiwale0077/ajio-website-clone-5d5e8c199
 Clone link => https://rad-wisp-02436f.netlify.app
 
 
-## Roles & Responsibilities :-
+<!-- ## Roles & Responsibilities :-
 
 GitHub is Managed & Readme.md done by Shreyansh.
 
@@ -47,7 +47,7 @@ Landing page, Mens page , womens page, designed& functioned by Ayush.
 All products page and filter data designed & functioned by Abhijeet & also
 Blog  created by Abhijeet.
 
-Cart page,checkout page,Payment Page, order confirmed page, designed & functioned by Abhishek
+Cart page,checkout page,Payment Page, order confirmed page, designed & functioned by Abhishek -->
 
 
 
