@@ -51,7 +51,7 @@ Cart page,checkout page,Payment Page, order confirmed page, designed & functione
 
 
 
-## Learning :-
+<!-- ## Learning :-
 
 We all became proficient in reading the code of team members.
 
@@ -70,7 +70,7 @@ We all learned how to plan a project and execute that.
 - [Ayush Kumar](https://github.com/ayush7271)
 - [Shreyash Ahuja](https://github.com/loki0925)
 - [Abhishek Kansana](https://github.com/AbhiKansana)
-- [Noorbasha](https://github.com/snoorbasha50)
+- [Noorbasha](https://github.com/snoorbasha50) -->
 
   ## Screenshots
 
