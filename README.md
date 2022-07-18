@@ -21,7 +21,7 @@
   <p align="center"> 
     <br />&#10023;
     <a href="#Demo">View Demo</a>   &#10023;  
-    <a href="https://github.com/m-sehrawat/Weather-App/issues">Report Bug</a>    &#10023;
+    <a href="https://github.com/Abhii-07/Ajio-Clone/issues">Report Bug</a>    &#10023;
     <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
     <a href="#Contact">Author</a> &#10023;
   </p>
@@ -39,14 +39,10 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 
 ## 🚀 Features
-- Saving the weather data in redux-store and session-storage to reduce the dependency of network requests
-- Search weather details according to the city
-- Detect your current location for displaying weather data
-- Shows a map of that location
-- Sync data to get the latest updated details of the current weather
-- Toast notification for every action
-- Pop up modal to display extra details of seven-day forecast weather
-- Cool zoom-in zoom-out animations 
+- User Sign-In & Sign-Up popup model
+- All types of Sort & Filters functionalities 
+- Add to cart & wish list features
+- Interactive website
 - Responsive for every screen size.
 
 <br/>
@@ -69,7 +65,7 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 ## Getting Started
 
-This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and Rest API. It is a web application and for running on your local environment you should follow these guidelines.
+This project was built using HTML5,CSS3, JavaScript and Rest API. It is a web application and for running on your local environment you should follow these guidelines.
 
 
 ### Prerequisites
@@ -79,13 +75,14 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/Abhii-07) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/Abhii-07/Ajio-Clone) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
- 
- Link here
+
+https://github.com/Abhii-07/Ajio-Clone.git
+
 ```
 
 + Open terminal on your workspace with
