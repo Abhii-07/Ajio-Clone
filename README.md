@@ -1,6 +1,6 @@
-<h1 align="center">Weather App</h1> 
+<h1 align="center">AJIO CLONE</h1> 
 
-<h2 align="center">Web application to show the current and upcoming week weather forecast.</h2>    
+<h2 align="center">Inspired from the website AJIO.com, and e-commerce website.</h2>    
 
 <br />
 <p align="center">
