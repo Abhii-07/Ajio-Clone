@@ -35,20 +35,7 @@ This a clone of a popular E-commerce website, AJIO.com. This webiste is purchasi
 - Interactive website
 - Responsive for every screen size.
 
-<br/>
 
-
-![App Screenshot](./readimages/Screenshot%201.png)
-
-![App Screenshot](./readimages/Screenshot2%20.png)
-
-![App Screenshot](./readimages/Screenshot%203.png)
-
-![App Screenshot](./readimages/Screenshot4%20.png)
-
-![App Screenshot](./readimages/Screenshot%205.png)
-
-<br />
 
 <br/>
 
